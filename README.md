@@ -1,20 +1,6 @@
 # simple_account_menu
-<<<<<<< HEAD
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
 simple account menu (Dropdown) made in flutter.
->>>>>>> dcc8b53cef56d1ceb58a079b51dac4d85c8eb87a
+
+Tried to create simple account menu design by [Zach Roszczewski](https://dribbble.com/shots/893233-Simple-Account-Menu-Dropdown)
+
+![Demo](https://github.com/shubham030/simple_account_menu/blob/master/demo.gif)
