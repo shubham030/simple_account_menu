@@ -1,5 +1,4 @@
-# simple account menu
-## simple account menu (Dropdown) made in flutter.
+# simple account menu (Dropdown) made in flutter.
 
 Created simple account menu design by [Zach Roszczewski](https://dribbble.com/shots/893233-Simple-Account-Menu-Dropdown)
 
